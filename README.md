@@ -37,6 +37,5 @@ The analysis helps the store understand performance across months, categories, s
 ## Gender Analysis Preview
 ![Gender_Analysis](Gender_Analysis.png)
 
-## State Wise Performance
-![Top 5 State](Top 5 State.png) 
+
 
