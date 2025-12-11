@@ -32,7 +32,7 @@ The analysis helps the store understand performance across months, categories, s
 - March, May, and June show peak sales months.  
 
 ## 📸 Dashboard Preview
-Dashboard.png
+![Dashboard](Dashboard.png)
 
 
 
