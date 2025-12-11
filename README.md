@@ -37,5 +37,9 @@ The analysis helps the store understand performance across months, categories, s
 ## Gender Analysis Preview
 ![Gender_Analysis](Gender_Analysis.png)
 
+## Gender and Age group Prview
+
+
+## Order and sales preview
 
 
